@@ -1,0 +1,17 @@
+{
+  "personal_pet_luna": "My luna's name is Luna.",
+  "personal_pet_max": "My dog's name is Max.",
+  "personal_gear_herman_miller": "My office chair is a Herman Miller Aeron.",
+  "personal_gear_steelcase": "My office chair is a Steelcase Leap.",
+  "work_project_alpha": "The deadline for Project Alpha is 2025-04-10.",
+  "work_project_beta": "The deadline for Project Beta is 2025-11-14.",
+  "work_meeting_standup": "I really hate long daily stand-up meetings.",
+  "opinion_llm_grok4": "I think Grok-4 is the strongest LLM right now.",
+  "opinion_llm_claude4": "I think Claude 4 is the strongest LLM right now.",
+  "plan_travel_japan": "I'm planning a trip to Japan in 2027.",
+  "plan_travel_iceland": "I'm planning a trip to Iceland in 2027.",
+  "preference_food_pizza": "I love pizza from Lou Malnati's.",
+  "preference_food_sushi": "I love sushi from Sukiyabashi Jiro.",
+  "preference_language_python": "My favorite programming language is Python.",
+  "preference_language_rust": "My favorite programming language is Rust."
+}
